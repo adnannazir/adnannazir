@@ -11,7 +11,7 @@ class AdnanNazir:
     name       = "Adnan Nazir"
     role       = "Senior Full-Stack Engineer"
     location   = "Lahore, Pakistan 🇵🇰"
-    education  = ["MSCS — VU Pakistan (GPA 3.84)", "BSCS (GPA 3.99) 🥇 Gold Medalist"]
+    education  = ["MSCS (GPA 3.84)", "BSCS (GPA 3.99) 🥇 Gold Medalist"]
     stack = {
         "backend":   ["Python", "Django", "DRF", "Java", "JSP"],
         "frontend":  ["JavaScript", "HTMX", "jQuery", "Bootstrap 5", "Tailwind CSS"],
