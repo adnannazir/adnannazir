@@ -79,9 +79,20 @@ class AdnanNazir:
 
 <div align="center">
 
-![Adnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adnannazir&show_icons=true&theme=radical&hide_border=true&bg_color=080a0d&title_color=00E5A0&icon_color=00E5A0&text_color=e2e4e9&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adnannazir&theme=dark&hide_border=true&background=080a0d&stroke=00E5A0&ring=00E5A0&fire=00E5A0&currStreakNum=e2e4e9&sideNums=e2e4e9&currStreakLabel=00E5A0&sideLabels=9aa0ad&dates=555e6e)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adnannazir&layout=compact&theme=radical&hide_border=true&bg_color=080a0d&title_color=00E5A0&text_color=e2e4e9&langs_count=6)
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adnannazir&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adnannazir&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adnannazir&theme=github_dark)
 
 </div>
 
