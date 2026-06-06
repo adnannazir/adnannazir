@@ -11,7 +11,7 @@ class AdnanNazir:
     name       = "Adnan Nazir"
     role       = "Senior Full-Stack Engineer"
     location   = "Lahore, Pakistan 🇵🇰"
-    education  = ["MSCS — VU Pakistan (GPA 3.84)", "BSCS — IUB (GPA 3.99) 🥇 Gold Medalist"]
+    education  = ["MSCS — VU Pakistan (GPA 3.84)", "BSCS (GPA 3.99) 🥇 Gold Medalist"]
     stack = {
         "backend":   ["Python", "Django", "DRF", "Java", "JSP"],
         "frontend":  ["JavaScript", "HTMX", "jQuery", "Bootstrap 5", "Tailwind CSS"],
@@ -92,7 +92,7 @@ class AdnanNazir:
 - 🏗️ **15+ enterprise systems shipped** — payroll MIS, pension disbursement, Primavera dashboards, online exam platforms, BOD meeting systems
 - 👥 **9,000+ employees served** across 250 regional offices via a centralized payroll & income tax system
 - 📋 **SAP BASIS & PS** — supporting ERP rollout and delivering Train-the-Trainer sessions
-- 🥇 **Gold Medalist BSCS** — GPA 3.99, batch topper, ICT scholarship holder (IUB, 2014)
+- 🥇 **Gold Medalist BSCS** — GPA 3.99, batch topper, ICT scholarship holder (2014)
 - 🟢 **Upwork 100% JSS** — 26 completed contracts in Django, Python & Unity3D
 - 🎮 **Former Unity3D Team Lead** — shipped games to Google Play & iOS App Store
 
